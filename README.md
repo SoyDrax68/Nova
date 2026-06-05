@@ -19,14 +19,11 @@ Las funcionalidades pueden cambiar conforme avance el proyecto.
 
 ## Comandos
 
-- help
-Muestra una lista de todos los comandos disponibles.
+- **help** - Muestra una lista de todos los comandos disponibles.
 
-- clear
-Limpia la pantalla de la consola para facilitar la lectura de nuevas salidas.
+- **clear** - Limpia la pantalla de la consola para facilitar la lectura de nuevas salidas.
 
-- exit
-Cierra Nova y finaliza la ejecución del programa.
+- **exit** - Cierra Nova y finaliza la ejecución del programa.
 
 ## Dependencias
 

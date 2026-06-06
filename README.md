@@ -1,32 +1,31 @@
 # Nova
+Nova is a terminal-like command engine developed in C#.
 
-Nova es un motor de comandos tipo terminal desarrollado en C#.
+Project developed as part of my C# learning and console application development.
 
-Proyecto desarrollado como parte de mi aprendizaje de C# y desarrollo de aplicaciones de consola.
+## Features
 
-## Características
+- Modular command system.
+- Dynamic command logging.
+- Easy to spread.
+- Code focused on learning and experimentation.
 
-- Sistema de comandos modular.
-- Registro dinámico de comandos.
-- Fácil de extender.
-- Código enfocado en aprendizaje y experimentación.
+## Project Status
 
-## Estado del proyecto
+In development.
 
-En desarrollo.
+Functionalities may change as the project progresses.
 
-Las funcionalidades pueden cambiar conforme avance el proyecto.
+## Commands 
 
-## Comandos
+- **help** - Displays a list of all available commands.
 
-- **help** - Muestra una lista de todos los comandos disponibles.
+- **clear** - Cleans the console screen to make it easier to read new outputs.
 
-- **clear** - Limpia la pantalla de la consola para facilitar la lectura de nuevas salidas.
+- **exit** - Closes Nova and ends the execution of the program.
 
-- **exit** - Cierra Nova y finaliza la ejecución del programa.
+## Dependencies
 
-## Dependencias
+Nova currently relies on ConsoleForge, a proprietary library that is still under development and not yet publicly available.
 
-Actualmente Nova depende de ConsoleForge, una biblioteca propia que sigue en desarrollo y todavía no está disponible públicamente.
-
-Por esta razón, el proyecto puede no compilar correctamente para terceros en este momento.
+For this reason, the project may not compile correctly for third parties at this time.

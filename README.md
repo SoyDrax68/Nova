@@ -22,6 +22,16 @@ Functionalities may change as the project progresses.
 
 - **clear** - Cleans the console screen to make it easier to read new outputs.
 
+- **version** - Displays the current version of the program.
+
+- **time** - Displays the current time in 12-hour format.
+
+- **date** - Displays the current day.
+
+- **random** - Generate a random number.
+
+- **status** - It is used to verify that the program is working correctly and to display status information.
+
 - **exit** - Closes Nova and ends the execution of the program.
 
 ## Dependencies
